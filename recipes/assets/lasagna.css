@@ -1,4 +1,8 @@
+body {
+  background-color: rgb(202, 226, 247);
+}
+
 .lasagnaPic {
-    width: 400px;
-    height: 400px;
+  width: 400px;
+  height: 400px;
 }
