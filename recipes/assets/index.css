@@ -1,0 +1,10 @@
+.heading {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.recipes ul, a{
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
